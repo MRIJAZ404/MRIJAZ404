@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MRIJAZ404
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently pursuing graduation in computer science
-- 💞️ I’m looking to collaborate on front end web development
+- 👋 Hi, I’m @Ijaj Hussain
+- 👀 I’m interested in Data Scientist
+- 🌱 I had completed my graduation in computer science
+- 💞️ I’m looking to collaborate on Python Dev.
 - 📫 How to reach me ...
 
 <!---
